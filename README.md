@@ -62,13 +62,13 @@ The app is optimized for both 🌞 **light** and 🌙 **dark modes**, ensuring a
 ## 📸 Screenshots
 
 ### 1.  MainMenu  
-![MainMenu_Screenshot](images/main.png)
+![MainMenu_Screenshot](main.png)
 
 ### 2. Converter
-![Converter_Screenshot](images/con.png)
+![Converter_Screenshot](con.png)
 
 ### 3. Selection
-![Selection_Screenshot] (images/sel.png)
+![Selection_Screenshot] (sel.png)
 ---
 
 ## 🌈 App Highlights
