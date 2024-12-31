@@ -68,7 +68,8 @@ The app is optimized for both 🌞 **light** and 🌙 **dark modes**, ensuring a
 ![Converter_Screenshot](con.png)
 
 ### 3. Selection
-![Selection_Screenshot] (sel.png)
+![Selection_Screenshot](sel.png)
+
 ---
 
 ## 🌈 App Highlights
